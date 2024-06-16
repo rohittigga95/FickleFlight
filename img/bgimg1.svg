@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="550px" height="240px" viewBox="0 0 550 240" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="88" y1="88" x2="0" y2="0" gradientTransform="matrix(2.75,0,0,1.2,0,0)">
+<stop offset="0" style="stop-color:rgb(52.54902%,52.54902%,52.54902%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(87.45098%,87.45098%,87.45098%);stop-opacity:1;"/>
+</linearGradient>
+<image id="image6" width="550" height="241" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAiYAAADxCAYAAAD/anz4AAAABmJLR0QA/wD/AP+gvaeTAAACGElEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALcGGIEAAbrVm1oAAAAASUVORK5CYII="/>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="75" y1="76" x2="168" y2="160" gradientTransform="matrix(2.75,0,0,1.2,0,0)">
+<stop offset="0" style="stop-color:rgb(0%,44.313725%,63.137255%);stop-opacity:1;"/>
+<stop offset="0.09" style="stop-color:rgb(0%,54.901961%,74.509804%);stop-opacity:1;"/>
+<stop offset="0.18" style="stop-color:rgb(0%,61.960784%,81.960784%);stop-opacity:1;"/>
+<stop offset="0.31" style="stop-color:rgb(0%,67.843137%,87.843137%);stop-opacity:1;"/>
+<stop offset="0.44" style="stop-color:rgb(0%,71.764706%,92.156863%);stop-opacity:1;"/>
+<stop offset="0.59" style="stop-color:rgb(13.333333%,74.901961%,95.686275%);stop-opacity:1;"/>
+<stop offset="0.75" style="stop-color:rgb(18.823529%,77.647059%,98.431373%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(21.960784%,79.215686%,100%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<rect x="0" y="0" width="550" height="240" style="fill:rgb(41.568627%,61.176471%,100%);fill-opacity:1;stroke:none;"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 0 208.800781 L 0 0 L 478.5 0 Z M 0 208.800781 "/>
+<use xlink:href="#image6"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear1);" d="M 392.425781 171.238281 C 162.800781 171.238281 0 208.800781 0 208.800781 C 0 208.800781 115.5 129.238281 205.976562 89.640625 C 296.449219 50.039062 478.5 0 478.5 0 C 478.5 0 392.425781 75.121094 392.425781 171.238281 Z M 392.425781 171.238281 "/>
+</g>
+</svg>
